@@ -1,0 +1,3 @@
+If a person is detected at night, treat it as a possible security alert.
+Phones, laptops, wallets, and bags are valuable items.
+If more than two people are detected, log it as crowd activity.
